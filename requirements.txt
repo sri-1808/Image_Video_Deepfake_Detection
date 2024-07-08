@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+opencv-python-headless
+numpy
+tensorflow
+imageio
+Pillow
+streamlit
